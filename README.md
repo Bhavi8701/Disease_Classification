@@ -1,6 +1,8 @@
 # Disease_Classification
 Disease - Amyotropic Lateral Sclerosis 
-Source - GEO Datasets - GSE68607
+
+
+Source - GEO Datasets - GSE68607.
 The data is gathered using NCBI-GEO.
 
 
